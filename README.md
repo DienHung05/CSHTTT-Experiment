@@ -1,0 +1,1 @@
+Đây là link git thực hiện các thử nghiệm huấn luyện mô hình môn CSHTTT của nhóm 18 bao gồm các dataset lấy từ https://github.com/Harvard-Ophthalmology-AI-Lab/FairFedMed sử dụng các phương pháp có sẵn từ bài báo và thêm một số phương pháp để so sánh và đánh giá độ hiệu quả
